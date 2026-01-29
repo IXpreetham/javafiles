@@ -1,0 +1,8 @@
+001,Preetham,29
+002,Sunny,17
+003,Vinay,-12
+004,Ramu,18
+005,      Raj   ,56
+006,   Rah    ul ,     79
+007,Thala,45
+008,Ri,10
